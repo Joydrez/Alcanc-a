@@ -1,0 +1,10 @@
+C:\Users\johan\source\repos\Alcancia\Alcancia\bin\Debug\Alcancia.exe.config
+C:\Users\johan\source\repos\Alcancia\Alcancia\bin\Debug\Alcancia.exe
+C:\Users\johan\source\repos\Alcancia\Alcancia\bin\Debug\Alcancia.pdb
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.Form1.resources
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.Properties.Resources.resources
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.exe
+C:\Users\johan\source\repos\Alcancia\Alcancia\obj\Debug\Alcancia.pdb
